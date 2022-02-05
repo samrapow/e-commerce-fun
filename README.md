@@ -43,4 +43,4 @@ Test get, get by id, post, put, and delete routes for tag-routes.js
 
 ## GitHub Repository
 
-[Github Repository](https://github.com/samrapow/homework10-team-profile-generator)
+[Github Repository](https://github.com/samrapow/e-commerce-fun)
